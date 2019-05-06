@@ -5,7 +5,7 @@ Using this repository as a testing area because I have not been able to get Reac
 # What I did
 
 I created a new react native project and installed React-Navigation. I started up the application with a little test screen. 
-It could not find the gesture handler so I installed react-native-gesture-handler. It still shows that error
+It could not find the gesture handler so I installed react-native-gesture-handler. I also linked react-native to react-native-gesture-handler. It still shows that error
 
 # Error info
 Failed to load bundle with error:
